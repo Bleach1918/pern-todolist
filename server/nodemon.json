@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "node_modules",
+    "*.sql",
+    "db.js",
+    "database.sql"
+  ]
+}
